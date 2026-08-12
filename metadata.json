@@ -1,0 +1,6 @@
+{
+  "name": "Swiss AI & Interview Coach",
+  "description": "A minimal Swiss-style editorial AI chat interface and AI interview coach built with structured prompt templates and few-shot evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
